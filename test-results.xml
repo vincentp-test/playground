@@ -1,6 +1,4 @@
-
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!--This file represents the results of running a test suite-->
 <test-results name="/home/charlie/Dev/NUnit/nunit-2.5/work/src/bin/Debug/tests/mock-assembly.dll" total="21" errors="1" failures="1" not-run="7" inconclusive="1" ignored="4" skipped="0" invalid="3" date="2010-10-18" time="13:23:35">
 	<environment nunit-version="2.5.8.0" clr-version="2.0.50727.1433" os-version="Unix 2.6.32.25" platform="Unix" cwd="/home/charlie/Dev/NUnit/nunit-2.5/work/src/bin/Debug" machine-name="cedar" user="charlie" user-domain="cedar" />
 	<culture-info current-culture="en-US" current-uiculture="en-US" />
